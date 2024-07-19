@@ -16,11 +16,12 @@ A simple calculator application built using Tkinter in Python.
 1. Clone the repository:
 
     git clone https://github.com/your-username/calculator.git
+   
     cd calculator
 
-2. Ensure you have Python installed.
+3. Ensure you have Python installed.
 
-3. Install the required dependencies:
+4. Install the required dependencies:
 
     pip install tk
 
